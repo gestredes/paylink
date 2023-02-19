@@ -2,10 +2,10 @@
   "theme": "minimalist-dark-theme",
 
   "properties": {
-    "name": "Daniel Castillo",
-    "description": "Frontend web developer and tireless creator",
-    "alt": "Photo of Daniel Castillo",
-    "hero": "./images/daniel-castillo.png"
+    "name": "Gestredes",
+    "description": "Gestión de redes y pagos",
+    "alt": "Gestión de redes y pagos",
+    "hero": "./images/photo_2022-12-20_13-10-10.jpg"
   },
 
   "Social": [
