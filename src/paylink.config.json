@@ -39,31 +39,31 @@
     {
       "id": "busd",
       "label": "BinanceUSD",
-      "value": "",
+      "value": "0×6dbb54b18f79bfd12c65e7780756c8c083cd3693",
       "img": "./images/payments/busd.svg"
     },
     {
       "id": "matic",
       "label": "Matic",
-      "value": "",
+      "value": "0x6dbb54b18f79bfd12c65e7780756c8c083cd3693",
       "img": "./images/payments/matic.svg"
     },
     {
       "id": "doge",
       "label": "DogeCoin",
-      "value": "",
+      "value": "DFgcQMDYXgunyC6wqX18zU2VkLPSZUJ1wX",
       "img": "./images/payments/doge.svg"
     },
     {
       "id": "eth",
       "label": "Ethereum",
-      "value": "0x59C864f658caD68A19a97499755080c056079988",
+      "value": "0×6dbb54b18f79bfd12c65e7780756c8c083cd3693",
       "img": "./images/payments/eth.svg"
     },
     {
       "id": "ltc",
       "label": "Litecoin",
-      "value": "",
+      "value": "MRJ9Bh3RGYe8TnkAVub8ybABePxebdjmgH",
       "img": "./images/payments/ltc.svg"
     },
     {
