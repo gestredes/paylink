@@ -45,7 +45,7 @@
     {
       "id": "matic",
       "label": "Matic",
-      "value": "0x6dbb54b18f79bfd12c65e7780756c8c083cd3693",
+      "value": "",
       "img": "./images/payments/matic.svg"
     },
     {
@@ -74,14 +74,14 @@
     },
     {
       "id": "usdt",
-      "label": "USDT",
-      "value": "",
+      "label": "USDT TRC20",
+      "value": "THqt4QCxYPg3dq5KTYEtJPPxe7XS6ForGy",
       "img": "./images/payments/usdt.svg"
     },
     {
       "id": "qvapay",
       "label": "QvaPay",
-      "value": "https://qvapay.com/payme/dlcastillop",
+      "value": "https://qvapay.com/payme/gestredes",
       "img": "./images/payments/qvapay.svg"
     },
     {
