@@ -97,6 +97,12 @@
       "img": "./images/payments/xrp.svg"
     },
     {
+      "id": "Payeer",
+      "label": "Payeer",
+      "value": "P1021796498",
+      "img": "./images/payments/qvapay.svg"
+    },
+    {
       "id": "qvapay",
       "label": "QvaPay",
       "value": "https://qvapay.com/payme/gestredes",
