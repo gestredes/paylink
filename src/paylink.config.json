@@ -38,7 +38,7 @@
     },
     {
       "id": "busd",
-      "label": "BinanceUSD",
+      "label": "BUSD BEP20",
       "value": "0×6dbb54b18f79bfd12c65e7780756c8c083cd3693",
       "img": "./images/payments/busd.svg"
     },
@@ -67,22 +67,10 @@
       "img": "./images/payments/ltc.svg"
     },
     {
-      "id": "paypal",
-      "label": "Paypal",
-      "value": "",
-      "img": "./images/payments/paypal.svg"
-    },
-    {
       "id": "usdt",
       "label": "USDT TRC20",
       "value": "THqt4QCxYPg3dq5KTYEtJPPxe7XS6ForGy",
       "img": "./images/payments/usdt.svg"
-    },
-    {
-      "id": "qvapay",
-      "label": "QvaPay",
-      "value": "https://qvapay.com/payme/gestredes",
-      "img": "./images/payments/qvapay.svg"
     },
     {
       "id": "sol",
@@ -99,7 +87,7 @@
     {
       "id": "trx",
       "label": "Tron",
-      "value": "",
+      "value": "THRtjvmRjN1vLJP4MohwSWyrNYnnzybELa",
       "img": "./images/payments/trx.svg"
     },
     {
@@ -107,6 +95,18 @@
       "label": "XRP",
       "value": "",
       "img": "./images/payments/xrp.svg"
+    },
+    {
+      "id": "qvapay",
+      "label": "QvaPay",
+      "value": "https://qvapay.com/payme/gestredes",
+      "img": "./images/payments/qvapay.svg"
+    },
+    {
+      "id": "paypal",
+      "label": "Paypal",
+      "value": "",
+      "img": "./images/payments/paypal.svg"
     },
     {
       "id": "card",
