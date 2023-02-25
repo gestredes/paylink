@@ -67,13 +67,13 @@
       "img": "./images/payments/ltc.svg"
     },
     {
-      "id": "usdterc",
+      "id": "usdterc20",
       "label": "USDT ERC20",
       "value": "0×6dbb54b18f79bfd12c65e7780756c8c083cd3693",
       "img": "https://coinmania.exchange/images/crypto/usdt_eth.png"
     },
     {
-      "id": "usdttrc",
+      "id": "usdttrc20",
       "label": "USDT TRC20",
       "value": "THqt4QCxYPg3dq5KTYEtJPPxe7XS6ForGy",
       "img": "https://coinmania.exchange/images/crypto/usdttrx.png"
