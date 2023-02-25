@@ -79,13 +79,13 @@
       "img": "https://coinmania.exchange/images/crypto/usdttrx.png"
     },
     {
-      "id": "usdcerc",
+      "id": "usdcerc20",
       "label": "USDC ERC20",
       "value": "0x5d3ec2df9cfcc10c92895d346e8121b3715d4fcf",
       "img": "https://coinmania.exchange/images/crypto/usdc_eth.png"
     },
     {
-      "id": "usdctrc",
+      "id": "usdctrc20",
       "label": "USDC TRC20",
       "value": "THRtjvmRjN1vLJP4MohwSWyrNYnnzybELa",
       "img": "https://coinmania.exchange/images/crypto/usdc_trx.png"
