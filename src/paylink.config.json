@@ -70,19 +70,25 @@
       "id": "usdterc",
       "label": "USDT ERC20",
       "value": "0×6dbb54b18f79bfd12c65e7780756c8c083cd3693",
-      "img": "./images/payments/usdt.svg"
+      "img": "https://coinmania.exchange/images/crypto/usdt_eth.png"
     },
     {
       "id": "usdttrc",
       "label": "USDT TRC20",
       "value": "THqt4QCxYPg3dq5KTYEtJPPxe7XS6ForGy",
-      "img": "./images/payments/usdt.svg"
+      "img": "https://coinmania.exchange/images/crypto/usdttrx.png"
     },
     {
-      "id": "usdc",
+      "id": "usdcerc",
+      "label": "USDC ERC20",
+      "value": "0x5d3ec2df9cfcc10c92895d346e8121b3715d4fcf",
+      "img": "https://coinmania.exchange/images/crypto/usdc_eth.png"
+    },
+    {
+      "id": "usdctrc",
       "label": "USDC TRC20",
       "value": "THRtjvmRjN1vLJP4MohwSWyrNYnnzybELa",
-      "img": "./images/payments/usdt.svg"
+      "img": "https://coinmania.exchange/images/crypto/usdc_trx.png"
     },
     {
       "id": "sol",
