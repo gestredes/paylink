@@ -70,25 +70,25 @@
       "id": "usdterc20",
       "label": "USDT ERC20",
       "value": "0×6dbb54b18f79bfd12c65e7780756c8c083cd3693",
-      "img": "./images/payments/usdterc.png"
+      "img": "./usdterc.png"
     },
     {
       "id": "usdttrc20",
       "label": "USDT TRC20",
       "value": "THqt4QCxYPg3dq5KTYEtJPPxe7XS6ForGy",
-      "img": "./images/payments/usdttrc.png"
+      "img": "./usdttrc.png"
     },
     {
       "id": "usdcerc20",
       "label": "USDC ERC20",
       "value": "0x5d3ec2df9cfcc10c92895d346e8121b3715d4fcf",
-      "img": "./images/payments/usdcerc.png"
+      "img": "./usdcerc.png"
     },
     {
       "id": "usdctrc20",
       "label": "USDC TRC20",
       "value": "THRtjvmRjN1vLJP4MohwSWyrNYnnzybELa",
-      "img": "./images/payments/usdctrc.png"
+      "img": "./usdctrc.png"
     },
     {
       "id": "sol",
