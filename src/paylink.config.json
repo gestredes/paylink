@@ -67,9 +67,21 @@
       "img": "./images/payments/ltc.svg"
     },
     {
-      "id": "usdt",
+      "id": "usdterc",
+      "label": "USDT ERC20",
+      "value": "0×6dbb54b18f79bfd12c65e7780756c8c083cd3693",
+      "img": "./images/payments/usdt.svg"
+    },
+    {
+      "id": "usdttrc",
       "label": "USDT TRC20",
       "value": "THqt4QCxYPg3dq5KTYEtJPPxe7XS6ForGy",
+      "img": "./images/payments/usdt.svg"
+    },
+    {
+      "id": "usdc",
+      "label": "USDC TRC20",
+      "value": "THRtjvmRjN1vLJP4MohwSWyrNYnnzybELa",
       "img": "./images/payments/usdt.svg"
     },
     {
