@@ -81,13 +81,13 @@
     {
       "id": "usdcerc20",
       "label": "USDC ERC20",
-      "value": "",
+      "value": "0x5d3ec2df9cfcc10c92895d346e8121b3715d4fcf",
       "img": "./usdcerc.png"
     },
     {
       "id": "usdctrc20",
       "label": "USDC TRC20",
-      "value": "",
+      "value": "THRtjvmRjN1vLJP4MohwSWyrNYnnzybELa",
       "img": "./usdctrc.png"
     },
     {
