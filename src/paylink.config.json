@@ -115,6 +115,12 @@
       "img": "./images/payments/xrp.svg"
     },
     {
+      "id": "interna_BingX",
+      "label": "Transferencia Interna BingX",
+      "value": "",
+      "img": "./images/payments/btc.svg"
+    },
+    {
       "id": "btc_BingX",
       "label": "Bitcoin BingX",
       "value": "1Ma1JmA8wgS4ajbxno4WJiTseG6pWauBDe",
