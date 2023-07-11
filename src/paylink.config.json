@@ -115,6 +115,96 @@
       "img": "./images/payments/xrp.svg"
     },
     {
+      "id": "btc_BingX",
+      "label": "Bitcoin BingX",
+      "value": "1Ma1JmA8wgS4ajbxno4WJiTseG6pWauBDe",
+      "img": "./images/payments/btc.svg"
+    },
+    {
+      "id": "busd_BingX",
+      "label": "BUSD BEP20 BingX",
+      "value": "0x3706139074c622001e6d5e6b1e6be9b46ad6eb09",
+      "img": "./images/payments/busd.svg"
+    },
+    {
+      "id": "matic",
+      "label": "Matic",
+      "value": "",
+      "img": "./images/payments/matic.svg"
+    },
+    {
+      "id": "doge_BingX",
+      "label": "DogeCoin BingX",
+      "value": "DMwb8gD3QJitrxQnU7dRcXfDWNLJddS7Wf",
+      "img": "./images/payments/doge.svg"
+    },
+    {
+      "id": "eth_BingX",
+      "label": "Ethereum BingX",
+      "value": "0x3706139074c622001e6d5e6b1e6be9b46ad6eb09",
+      "img": "./images/payments/eth.svg"
+    },
+    {
+      "id": "ltc_BingX",
+      "label": "Litecoin BingX",
+      "value": "",
+      "img": "./images/payments/ltc.svg"
+    },
+    {
+      "id": "usdterc20_BingX",
+      "label": "USDT ERC20 BingX",
+      "value": "0x3706139074c622001e6d5e6b1e6be9b46ad6eb09",
+      "img": "./usdterc.png"
+    },
+    {
+      "id": "usdttrc20_BingX",
+      "label": "USDT TRC20 BingX",
+      "value": "TCkPtrQKM699sFfbHQFE2nvZDxhHZw2eTf",
+      "img": "./usdttrc.png"
+    },
+    {
+      "id": "usdtbep20_BingX",
+      "label": "USDT BEP20 BingX",
+      "value": "0x3706139074c622001e6d5e6b1e6be9b46ad6eb09",
+      "img": "./usdtbep.png"
+    },
+    {
+      "id": "usdcerc20_BingX",
+      "label": "USDC ERC20 BingX",
+      "value": "0x3706139074c622001e6d5e6b1e6be9b46ad6eb09",
+      "img": "./usdcerc.png"
+    },
+    {
+      "id": "usdctrc20_BingX",
+      "label": "USDC TRC20 BingX",
+      "value": "TCkPtrQKM699sFfbHQFE2nvZDxhHZw2eTf",
+      "img": "./usdctrc.png"
+    },
+    {
+      "id": "sol",
+      "label": "Solana",
+      "value": "",
+      "img": "./images/payments/sol.svg"
+    },
+    {
+      "id": "ada",
+      "label": "ADA",
+      "value": "",
+      "img": "./images/payments/ada.svg"
+    },
+    {
+      "id": "trx_BingX",
+      "label": "Tron BingX",
+      "value": "TCkPtrQKM699sFfbHQFE2nvZDxhHZw2eTf",
+      "img": "./images/payments/trx.svg"
+    },
+    {
+      "id": "xrp",
+      "label": "XRP",
+      "value": "",
+      "img": "./images/payments/xrp.svg"
+    },  
+    {
       "id": "Payeer",
       "label": "Payeer",
       "value": "P1021796498",
