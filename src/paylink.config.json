@@ -117,8 +117,8 @@
     {
       "id": "interna_BingX",
       "label": "Transferencia Interna BingX",
-      "value": "",
-      "img": "./images/payments/btc.svg"
+      "value": "13913030",
+      "img": "./bingx.png"
     },
     {
       "id": "btc_BingX",
