@@ -31,14 +31,14 @@
 
   "Payments": [
     {
-      "id": "btc",
-      "label": "Bitcoin",
+      "id": "btc_Kucoin",
+      "label": "Bitcoin Kucoin",
       "value": "3KUoQSNv8jj22FbA6vKkt97gBNt3C6t8Jg",
       "img": "./images/payments/btc.svg"
     },
     {
-      "id": "busd",
-      "label": "BUSD BEP20",
+      "id": "busd_Kucoin",
+      "label": "BUSD BEP20 Kucoin",
       "value": "0×6dbb54b18f79bfd12c65e7780756c8c083cd3693",
       "img": "./images/payments/busd.svg"
     },
@@ -49,44 +49,44 @@
       "img": "./images/payments/matic.svg"
     },
     {
-      "id": "doge",
-      "label": "DogeCoin",
+      "id": "doge_Kucoin",
+      "label": "DogeCoin Kucoin",
       "value": "DFgcQMDYXgunyC6wqX18zU2VkLPSZUJ1wX",
       "img": "./images/payments/doge.svg"
     },
     {
-      "id": "eth",
-      "label": "Ethereum",
+      "id": "eth_Kucoin",
+      "label": "Ethereum Kucoin",
       "value": "0×6dbb54b18f79bfd12c65e7780756c8c083cd3693",
       "img": "./images/payments/eth.svg"
     },
     {
-      "id": "ltc",
-      "label": "Litecoin",
+      "id": "ltc_Kucoin",
+      "label": "Litecoin Kucoin",
       "value": "MRJ9Bh3RGYe8TnkAVub8ybABePxebdjmgH",
       "img": "./images/payments/ltc.svg"
     },
     {
-      "id": "usdterc20",
-      "label": "USDT ERC20",
+      "id": "usdterc20_Kucoin",
+      "label": "USDT ERC20 Kucoin",
       "value": "0×6dbb54b18f79bfd12c65e7780756c8c083cd3693",
       "img": "./usdterc.png"
     },
     {
-      "id": "usdttrc20",
-      "label": "USDT TRC20",
+      "id": "usdttrc20_Kucoin",
+      "label": "USDT TRC20 Kucoin",
       "value": "THqt4QCxYPg3dq5KTYEtJPPxe7XS6ForGy",
       "img": "./usdttrc.png"
     },
     {
-      "id": "usdcerc20",
-      "label": "USDC ERC20",
+      "id": "usdcerc20_Kucoin",
+      "label": "USDC ERC20 Kucoin",
       "value": "0x5d3ec2df9cfcc10c92895d346e8121b3715d4fcf",
       "img": "./usdcerc.png"
     },
     {
-      "id": "usdctrc20",
-      "label": "USDC TRC20",
+      "id": "usdctrc20_Kucoin",
+      "label": "USDC TRC20 Kucoin",
       "value": "THRtjvmRjN1vLJP4MohwSWyrNYnnzybELa",
       "img": "./usdctrc.png"
     },
@@ -103,8 +103,8 @@
       "img": "./images/payments/ada.svg"
     },
     {
-      "id": "trx",
-      "label": "Tron",
+      "id": "trx_Kucoin",
+      "label": "Tron Kucoin",
       "value": "THRtjvmRjN1vLJP4MohwSWyrNYnnzybELa",
       "img": "./images/payments/trx.svg"
     },
