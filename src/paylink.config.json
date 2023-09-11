@@ -211,6 +211,12 @@
       "img": "./images/payments/xrp.svg"
     },  
     {
+      "id": "TON_Telegram",
+      "label": "TON_Telegram",
+      "value": "UQBp9-MU60xwjZnbvTx3qxxcps--fJPgXiw4o9MBDqoFFVLZ",
+      "img": "./images/payments/ton.png"
+    },
+    {
       "id": "Payeer",
       "label": "Payeer",
       "value": "P1021796498",
