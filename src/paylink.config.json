@@ -213,13 +213,13 @@
     {
       "id": "TON_BingX",
       "label": "TON_BingX",
-      "value": "EQDCngJ414JEeTmxQtEjKLE2572evEeqbnukCQnJKjVgXfI6",
+      "value": "",
       "img": "./images/payments/ton.png"
     },
     {
       "id": "TON_Telegram",
       "label": "TON_Telegram",
-      "value": "Gestredes",
+      "value": "",
       "img": "./images/payments/ton.png"
     },
     {
