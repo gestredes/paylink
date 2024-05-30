@@ -117,13 +117,13 @@
     {
       "id": "interna_BingX",
       "label": "Transf. Interna BingX",
-      "value": "13913030",
+      "value": "",
       "img": "./bingx.png"
     },
     {
       "id": "btc_BingX",
       "label": "Bitcoin BingX minimo: 0.0002",
-      "value": "1Ma1JmA8wgS4ajbxno4WJiTseG6pWauBDe",
+      "value": "",
       "img": "./images/payments/btc.svg"
     },
     {
@@ -141,13 +141,13 @@
     {
       "id": "doge_BingX",
       "label": "DogeCoin BingX",
-      "value": "DMwb8gD3QJitrxQnU7dRcXfDWNLJddS7Wf",
+      "value": "",
       "img": "./images/payments/doge.svg"
     },
     {
       "id": "eth_BingX",
       "label": "Ethereum BingX minimo: 0.002",
-      "value": "0x3706139074c622001e6d5e6b1e6be9b46ad6eb09",
+      "value": "",
       "img": "./images/payments/eth.svg"
     },
     {
@@ -159,25 +159,25 @@
     {
       "id": "usdterc20_BingX",
       "label": "USDT ERC20 BingX",
-      "value": "0x3706139074c622001e6d5e6b1e6be9b46ad6eb09",
+      "value": "",
       "img": "./usdterc.png"
     },
     {
       "id": "usdttrc20_BingX",
       "label": "USDT TRC20 BingX",
-      "value": "TCkPtrQKM699sFfbHQFE2nvZDxhHZw2eTf",
+      "value": "",
       "img": "./usdttrc.png"
     },
     {
       "id": "usdtbep20_BingX",
       "label": "USDT BEP20 BingX",
-      "value": "0x3706139074c622001e6d5e6b1e6be9b46ad6eb09",
+      "value": "",
       "img": "./usdtbep.png"
     },
     {
       "id": "usdcerc20_BingX",
       "label": "USDC ERC20 BingX",
-      "value": "0x3706139074c622001e6d5e6b1e6be9b46ad6eb09",
+      "value": "",
       "img": "./usdcerc.png"
     },
     {
@@ -201,7 +201,7 @@
     {
       "id": "trx_BingX",
       "label": "Tron BingX",
-      "value": "TCkPtrQKM699sFfbHQFE2nvZDxhHZw2eTf",
+      "value": "",
       "img": "./images/payments/trx.svg"
     },
     {
@@ -213,8 +213,14 @@
     {
       "id": "TON_BingX",
       "label": "TON_BingX",
-      "value": "EQDCngJ414JEeTmxQtEjKLE2572evEeqbnukCQnJKjVgXfI6",
+      "value": "",
       "img": "./images/payments/ton.png"
+    },
+    {
+      "id": "USDT_BEP20",
+      "label": "USDT BEP20",
+      "value": "0x90B92fd56248b68B40ADA921b59e2E8c709d10Ed",
+      "img": "./usdtbep.png"
     },
     {
       "id": "TON_Telegram",
