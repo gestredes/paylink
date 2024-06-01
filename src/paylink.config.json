@@ -218,7 +218,7 @@
     },
      {
       "id": "trx_coinex",
-      "label": "Tron",
+      "label": "Tron (TRX)",
       "value": "TARUaqPTS1eJAVs7omGskJ4xRGrvYZYzWc",
       "img": "./images/payments/trx.svg"
     },
