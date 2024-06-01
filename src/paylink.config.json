@@ -216,6 +216,18 @@
       "value": "",
       "img": "./images/payments/ton.png"
     },
+     {
+      "id": "trx_coinex",
+      "label": "Tron",
+      "value": "TARUaqPTS1eJAVs7omGskJ4xRGrvYZYzWc",
+      "img": "./images/payments/trx.svg"
+    },
+    {
+      "id": "usdttrc20_Coinex",
+      "label": "USDT TRC20 Min 2.30",
+      "value": "TARUaqPTS1eJAVs7omGskJ4xRGrvYZYzWc",
+      "img": "./usdttrc.png"
+    },
     {
       "id": "USDT_BEP20",
       "label": "USDT BEP20",
