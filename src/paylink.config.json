@@ -61,7 +61,7 @@
       "img": "./bingx.png"
     },
     {
-      "id": "btc_BingX",
+      "id": "btc_Coinex",
       "label": "Bitcoin minimo: 0.001",
       "value": "1JDqvHoYRZ4r9czdu5MC5zhZNaf7MkzQtk",
       "img": "./images/payments/btc.svg"
@@ -73,21 +73,15 @@
       "img": "./images/payments/busd.svg"
     },
     {
-      "id": "matic",
-      "label": "Matic",
-      "value": "",
-      "img": "./images/payments/matic.svg"
-    },
-    {
       "id": "doge_BingX",
       "label": "DogeCoin BingX",
       "value": "",
       "img": "./images/payments/doge.svg"
     },
     {
-      "id": "eth_BingX",
-      "label": "Ethereum BingX minimo: 0.002",
-      "value": "",
+      "id": "eth_Coinex",
+      "label": "Ethereum minimo: 0.005",
+      "value": "0x5b3faf1a5e8e157b5fb634967256fc8598b10181",
       "img": "./images/payments/eth.svg"
     },
     {
