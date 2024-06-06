@@ -31,64 +31,10 @@
 
   "Payments": [
     {
-      "id": "btc_Kucoin",
-      "label": "Bitcoin Kucoin",
-      "value": "",
-      "img": "./images/payments/btc.svg"
-    },
-    {
-      "id": "busd_Kucoin",
-      "label": "BUSD BEP20 Kucoin",
-      "value": "",
-      "img": "./images/payments/busd.svg"
-    },
-    {
       "id": "matic",
       "label": "Matic",
       "value": "",
       "img": "./images/payments/matic.svg"
-    },
-    {
-      "id": "doge_Kucoin",
-      "label": "DogeCoin Kucoin",
-      "value": "",
-      "img": "./images/payments/doge.svg"
-    },
-    {
-      "id": "eth_Kucoin",
-      "label": "Ethereum Kucoin",
-      "value": "",
-      "img": "./images/payments/eth.svg"
-    },
-    {
-      "id": "ltc_Kucoin",
-      "label": "Litecoin Kucoin",
-      "value": "",
-      "img": "./images/payments/ltc.svg"
-    },
-    {
-      "id": "usdterc20_Kucoin",
-      "label": "USDT ERC20 Kucoin",
-      "value": "",
-      "img": "./usdterc.png"
-    },
-    {
-      "id": "usdttrc20_Kucoin",
-      "label": "USDT TRC20 Kucoin",
-      "value": "",
-      "img": "./usdttrc.png"
-    },
-    {
-      "id": "usdcerc20_Kucoin",
-      "label": "USDC ERC20 Kucoin",
-      "value": "",
-      "img": "./usdcerc.png"
-    },
-    {
-      "id": "usdctrc20_Kucoin",
-      "label": "USDC TRC20 Kucoin",
-      "value": "",
-      "img": "./usdctrc.png"
     },
     {
       "id": "sol",
@@ -101,12 +47,6 @@
       "label": "ADA",
       "value": "",
       "img": "./images/payments/ada.svg"
-    },
-    {
-      "id": "trx_Kucoin",
-      "label": "Tron Kucoin",
-      "value": "",
-      "img": "./images/payments/trx.svg"
     },
     {
       "id": "xrp",
@@ -122,8 +62,8 @@
     },
     {
       "id": "btc_BingX",
-      "label": "Bitcoin BingX minimo: 0.0002",
-      "value": "",
+      "label": "Bitcoin minimo: 0.001",
+      "value": "1JDqvHoYRZ4r9czdu5MC5zhZNaf7MkzQtk",
       "img": "./images/payments/btc.svg"
     },
     {
