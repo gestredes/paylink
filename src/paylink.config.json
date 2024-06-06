@@ -169,6 +169,12 @@
       "img": "./usdtbep.png"
     },
     {
+      "id": "Ronin",
+      "label": "Ronin",
+      "value": "0x7de1e2483f2e265cd73a1684d06e1f19af428a17",
+      "img": "./images/payments/xrp.svg"
+    },  
+    {
       "id": "TON_Telegram",
       "label": "TON_Telegram",
       "value": "",
