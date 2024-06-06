@@ -73,16 +73,16 @@
       "img": "./images/payments/busd.svg"
     },
     {
-      "id": "doge_Coinex",
-      "label": "DogeCoin",
-      "value": "DLQ7P4fZjD5kRRR4Up397RtAyeYF1qXAAt",
-      "img": "./images/payments/doge.svg"
-    },
-    {
       "id": "eth_Coinex",
       "label": "Ethereum minimo: 0.005",
       "value": "0x5b3faf1a5e8e157b5fb634967256fc8598b10181",
       "img": "./images/payments/eth.svg"
+    },
+    {
+      "id": "doge_Coinex",
+      "label": "DogeCoin",
+      "value": "DLQ7P4fZjD5kRRR4Up397RtAyeYF1qXAAt",
+      "img": "./images/payments/doge.svg"
     },
     {
       "id": "ltc_BingX",
