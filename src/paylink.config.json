@@ -73,9 +73,9 @@
       "img": "./images/payments/busd.svg"
     },
     {
-      "id": "doge_BingX",
-      "label": "DogeCoin BingX",
-      "value": "",
+      "id": "doge_Coinex",
+      "label": "DogeCoin",
+      "value": "DLQ7P4fZjD5kRRR4Up397RtAyeYF1qXAAt",
       "img": "./images/payments/doge.svg"
     },
     {
