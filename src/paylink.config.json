@@ -122,7 +122,7 @@
     },
     {
       "id": "sol",
-      "label": "Solana Min: 0.002",
+      "label": "Solana Min: 0.05",
       "value": "C9FXtfod79hGHW7smzjEwLo9Afyh6JWk29jyZ8CJNgh3",
       "img": "./images/payments/sol.svg"
     },
