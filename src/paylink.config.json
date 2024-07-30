@@ -39,7 +39,7 @@
     {
       "id": "sol",
       "label": "Solana",
-      "value": "",
+      "value": "C9FXtfod79hGHW7smzjEwLo9Afyh6JWk29jyZ8CJNgh3",
       "img": "./images/payments/sol.svg"
     },
     {
@@ -122,8 +122,8 @@
     },
     {
       "id": "sol",
-      "label": "Solana",
-      "value": "",
+      "label": "Solana Min: 0.002",
+      "value": "C9FXtfod79hGHW7smzjEwLo9Afyh6JWk29jyZ8CJNgh3",
       "img": "./images/payments/sol.svg"
     },
     {
@@ -152,13 +152,13 @@
     },
      {
       "id": "trx_coinex",
-      "label": "Tron (TRX)",
+      "label": "Tron (TRX) Min: 15",
       "value": "TARUaqPTS1eJAVs7omGskJ4xRGrvYZYzWc",
       "img": "./images/payments/trx.svg"
     },
     {
       "id": "usdttrc20_Coinex",
-      "label": "USDT TRC20 Min 2.30",
+      "label": "USDT TRC20 Min: 1",
       "value": "TARUaqPTS1eJAVs7omGskJ4xRGrvYZYzWc",
       "img": "./usdttrc.png"
     },
@@ -170,7 +170,7 @@
     },
     {
       "id": "Ronin",
-      "label": "Ronin",
+      "label": "Ronin Min: 0.1",
       "value": "0x7de1e2483f2e265cd73a1684d06e1f19af428a17",
       "img": "./images/payments/Ronin.jpeg"
     },  
