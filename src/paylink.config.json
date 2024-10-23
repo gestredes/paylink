@@ -62,7 +62,7 @@
     },
     {
       "id": "btc_Coinex",
-      "label": "Bitcoin minimo: 0.001",
+      "label": "Bitcoin Coinex minimo: 0.001",
       "value": "1JDqvHoYRZ4r9czdu5MC5zhZNaf7MkzQtk",
       "img": "./images/payments/btc.svg"
     },
@@ -74,13 +74,13 @@
     },
     {
       "id": "eth_Coinex",
-      "label": "Ethereum minimo: 0.005",
+      "label": "Ethereum Coinex minimo: 0.006",
       "value": "0x5b3faf1a5e8e157b5fb634967256fc8598b10181",
       "img": "./images/payments/eth.svg"
     },
     {
       "id": "doge_Coinex",
-      "label": "DogeCoin",
+      "label": "DogeCoin Coinex",
       "value": "DLQ7P4fZjD5kRRR4Up397RtAyeYF1qXAAt",
       "img": "./images/payments/doge.svg"
     },
@@ -161,6 +161,12 @@
       "label": "USDT TRC20 Min: 1",
       "value": "TARUaqPTS1eJAVs7omGskJ4xRGrvYZYzWc",
       "img": "./usdttrc.png"
+    },
+    {
+      "id": "usdtbep20_Coinex",
+      "label": "USDT BEP20 Min: 1",
+      "value": "0x5b3faf1a5e8e157b5fb634967256fc8598b10181",
+      "img": "./usdtbep.png"
     },
     {
       "id": "USDT_BEP20",
