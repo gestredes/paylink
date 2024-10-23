@@ -109,8 +109,8 @@
       "img": "./images/payments/trx.svg"
     },
     {
-      "id": "Ronin",
-      "label": "Ronin Min: 5",
+      "id": "Ronin_coinex",
+      "label": "Ronin Coinex Minimo: 5",
       "value": "0x7de1e2483f2e265cd73a1684d06e1f19af428a17",
       "img": "./images/payments/Ronin.jpeg"
     }, 
@@ -125,12 +125,6 @@
       "label": "Matic",
       "value": "",
       "img": "./images/payments/matic.svg"
-    },
-    {
-      "id": "xrp",
-      "label": "XRP",
-      "value": "",
-      "img": "./images/payments/xrp.svg"
     },
     {
       "id": "Payeer",
