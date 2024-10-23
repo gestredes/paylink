@@ -31,44 +31,14 @@
 
   "Payments": [
     {
-      "id": "matic",
-      "label": "Matic",
-      "value": "",
-      "img": "./images/payments/matic.svg"
-    },
-    {
-      "id": "sol",
-      "label": "Solana",
-      "value": "",
-      "img": "./images/payments/sol.svg"
-    },
-    {
-      "id": "ada",
-      "label": "ADA",
-      "value": "",
-      "img": "./images/payments/ada.svg"
-    },
-    {
-      "id": "xrp",
-      "label": "XRP",
-      "value": "",
-      "img": "./images/payments/xrp.svg"
-    },
-    {
-      "id": "interna_BingX",
-      "label": "Transf. Interna BingX",
-      "value": "",
-      "img": "./bingx.png"
-    },
-    {
       "id": "btc_Coinex",
       "label": "Bitcoin Coinex minimo: 0.001",
       "value": "1JDqvHoYRZ4r9czdu5MC5zhZNaf7MkzQtk",
       "img": "./images/payments/btc.svg"
     },
     {
-      "id": "busd_BingX",
-      "label": "BUSD BEP20 BingX",
+      "id": "busd_Coinex",
+      "label": "BUSD BEP20 Coinex",
       "value": "",
       "img": "./images/payments/busd.svg"
     },
@@ -91,34 +61,22 @@
       "img": "./images/payments/ltc.svg"
     },
     {
-      "id": "usdterc20_BingX",
-      "label": "USDT ERC20 BingX",
+      "id": "usdterc20_Coinex",
+      "label": "USDT ERC20 Coinex",
       "value": "",
       "img": "./usdterc.png"
     },
-    {
-      "id": "usdttrc20_BingX",
-      "label": "USDT TRC20 BingX",
-      "value": "",
+        {
+      "id": "usdttrc20_Coinex",
+      "label": "USDT TRC20 Coinex Min: 1",
+      "value": "TARUaqPTS1eJAVs7omGskJ4xRGrvYZYzWc",
       "img": "./usdttrc.png"
     },
     {
-      "id": "usdtbep20_BingX",
-      "label": "USDT BEP20 BingX",
-      "value": "",
+      "id": "usdtbep20_Coinex",
+      "label": "USDT BEP20 Coinex Min: 1",
+      "value": "0x5b3faf1a5e8e157b5fb634967256fc8598b10181",
       "img": "./usdtbep.png"
-    },
-    {
-      "id": "usdcerc20_BingX",
-      "label": "USDC ERC20 BingX",
-      "value": "",
-      "img": "./usdcerc.png"
-    },
-    {
-      "id": "usdctrc20_BingX",
-      "label": "USDC TRC20 BingX",
-      "value": "",
-      "img": "./usdctrc.png"
     },
     {
       "id": "sol",
@@ -131,12 +89,6 @@
       "label": "ADA",
       "value": "",
       "img": "./images/payments/ada.svg"
-    },
-    {
-      "id": "trx_BingX",
-      "label": "Tron BingX",
-      "value": "",
-      "img": "./images/payments/trx.svg"
     },
     {
       "id": "xrp",
@@ -152,22 +104,16 @@
     },
      {
       "id": "trx_coinex",
-      "label": "Tron (TRX) Min: 15",
+      "label": "Tron (TRX) Coinex Min: 15",
       "value": "TARUaqPTS1eJAVs7omGskJ4xRGrvYZYzWc",
       "img": "./images/payments/trx.svg"
     },
     {
-      "id": "usdttrc20_Coinex",
-      "label": "USDT TRC20 Min: 1",
-      "value": "TARUaqPTS1eJAVs7omGskJ4xRGrvYZYzWc",
-      "img": "./usdttrc.png"
-    },
-    {
-      "id": "usdtbep20_Coinex",
-      "label": "USDT BEP20 Min: 1",
-      "value": "0x5b3faf1a5e8e157b5fb634967256fc8598b10181",
-      "img": "./usdtbep.png"
-    },
+      "id": "Ronin",
+      "label": "Ronin Min: 5",
+      "value": "0x7de1e2483f2e265cd73a1684d06e1f19af428a17",
+      "img": "./images/payments/Ronin.jpeg"
+    }, 
     {
       "id": "USDT_BEP20",
       "label": "USDT BEP20",
@@ -175,16 +121,16 @@
       "img": "./usdtbep.png"
     },
     {
-      "id": "Ronin",
-      "label": "Ronin Min: 5",
-      "value": "0x7de1e2483f2e265cd73a1684d06e1f19af428a17",
-      "img": "./images/payments/Ronin.jpeg"
-    },  
-    {
-      "id": "TON_Telegram",
-      "label": "TON_Telegram",
+      "id": "matic",
+      "label": "Matic",
       "value": "",
-      "img": "./images/payments/ton.png"
+      "img": "./images/payments/matic.svg"
+    },
+    {
+      "id": "xrp",
+      "label": "XRP",
+      "value": "",
+      "img": "./images/payments/xrp.svg"
     },
     {
       "id": "Payeer",
