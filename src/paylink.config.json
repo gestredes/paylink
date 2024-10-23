@@ -80,14 +80,14 @@
     },
     {
       "id": "doge_Coinex",
-      "label": "DogeCoin Coinex",
+      "label": "DogeCoin Coinex minimo: 15",
       "value": "DLQ7P4fZjD5kRRR4Up397RtAyeYF1qXAAt",
       "img": "./images/payments/doge.svg"
     },
     {
-      "id": "ltc_BingX",
-      "label": "Litecoin BingX",
-      "value": "",
+      "id": "ltc_Coinex",
+      "label": "Litecoin Coinex minimo: 0.02",
+      "value": "ltc1qvu4gexqxvpqagtxu4kj2m3txtuvca0zsy6vqxv",
       "img": "./images/payments/ltc.svg"
     },
     {
