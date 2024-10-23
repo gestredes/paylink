@@ -56,7 +56,7 @@
     },
     {
       "id": "ltc_Coinex",
-      "label": "Litecoin Coinex minimo: 0.02",
+      "label": "Litecoin Coinex minimo: 0.06",
       "value": "ltc1qvu4gexqxvpqagtxu4kj2m3txtuvca0zsy6vqxv",
       "img": "./images/payments/ltc.svg"
     },
@@ -85,9 +85,9 @@
       "img": "./images/payments/sol.svg"
     },
     {
-      "id": "ada",
-      "label": "ADA",
-      "value": "",
+      "id": "ada_coinex",
+      "label": "ADA Coinex Minimo: 10",
+      "value": "DdzFFzCqrhsxqRWVnJDYJB99uUwX2baSbST99uZbnxE8sM3WudPYD5xNsfAkCYhJWpn9YqiYMqrUtYdzRgMyfzhsV5vYxtQwQ3ButLMz",
       "img": "./images/payments/ada.svg"
     },
     {
