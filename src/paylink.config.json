@@ -62,8 +62,8 @@
     },
     {
       "id": "usdterc20_Coinex",
-      "label": "USDT ERC20 Coinex",
-      "value": "",
+      "label": "USDT ERC20 Coinex minimo: 15",
+      "value": "0x5b3faf1a5e8e157b5fb634967256fc8598b10181",
       "img": "./usdterc.png"
     },
         {
