@@ -130,7 +130,7 @@
       "id": "Payeer",
       "label": "Payeer",
       "value": "P1021796498",
-      "img": "./images/payments/payeer.png"
+      "img": "./payeer.png"
     },
     {
       "id": "qvapay",
