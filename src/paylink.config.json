@@ -79,8 +79,8 @@
       "img": "./usdtbep.png"
     },
     {
-      "id": "sol",
-      "label": "Solana Min: 0.06",
+      "id": "sol_coinex",
+      "label": "Solana Coinex Min: 0.08",
       "value": "C9FXtfod79hGHW7smzjEwLo9Afyh6JWk29jyZ8CJNgh3",
       "img": "./images/payments/sol.svg"
     },
