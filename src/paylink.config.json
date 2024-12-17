@@ -34,7 +34,7 @@
       "id": "Tx_Interna_CoinEx",
       "label": "Transferencia Interna CoinEx",
       "value": "gestredespagos@gmail.com",
-      "img": "./images/payments/coinex.svg"
+      "img": "./images/payments/coinex.png"
     },
     {
       "id": "btc_Coinex",
