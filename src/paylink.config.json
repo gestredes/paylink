@@ -31,6 +31,12 @@
 
   "Payments": [
     {
+      "id": "Tx_Interna_CoinEx",
+      "label": "Transferencia Interna CoinEx",
+      "value": "gestredespagos@gmail.com",
+      "img": "./images/payments/coinex.svg"
+    },
+    {
       "id": "btc_Coinex",
       "label": "Bitcoin Coinex minimo: 0.001",
       "value": "16Dp6Sd4FNK2PGip4uKp2mAYdQc4utK8xz",
