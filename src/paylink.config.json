@@ -38,7 +38,7 @@
     },
     {
       "id": "btc_Coinex",
-      "label": "Bitcoin Coinex minimo: 0.001",
+      "label": "Bitcoin Coinex minimo: 0.0006",
       "value": "16Dp6Sd4FNK2PGip4uKp2mAYdQc4utK8xz",
       "img": "./images/payments/btc.svg"
     },
