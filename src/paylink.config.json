@@ -81,7 +81,7 @@
     {
       "id": "usdtbep20_Coinex",
       "label": "USDT BEP20 Coinex Min: 1",
-      "value": "0x99bee0a672a0b0492aeecbf65751f8770b76db54",
+      "value": "",
       "img": "./usdtbep.png"
     },
     {
@@ -123,7 +123,7 @@
     {
       "id": "USDT_BEP20",
       "label": "USDT BEP20",
-      "value": "",
+      "value": "0x236593917817f211E02AF047991A7Cd496E914fA",
       "img": "./usdtbep.png"
     },
     {
