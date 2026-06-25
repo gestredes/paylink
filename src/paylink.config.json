@@ -33,13 +33,13 @@
     {
       "id": "Tx_Interna_CoinEx",
       "label": "Transferencia Interna CoinEx",
-      "value": "gestredespagos@gmail.com",
+      "value": "",
       "img": "./images/payments/coinex.png"
     },
     {
       "id": "btc_Coinex",
       "label": "Bitcoin Coinex minimo: 0.0006",
-      "value": "16Dp6Sd4FNK2PGip4uKp2mAYdQc4utK8xz",
+      "value": "",
       "img": "./images/payments/btc.svg"
     },
     {
@@ -51,31 +51,31 @@
     {
       "id": "eth_Coinex",
       "label": "Ethereum Coinex minimo: 0.006",
-      "value": "0x99bee0a672a0b0492aeecbf65751f8770b76db54",
+      "value": "",
       "img": "./images/payments/eth.svg"
     },
     {
       "id": "doge_Coinex",
       "label": "DogeCoin Coinex minimo: 15",
-      "value": "DRWREcqdJjoxet8JfKHNQLkEHvviM3Ju3D",
+      "value": "",
       "img": "./images/payments/doge.svg"
     },
     {
       "id": "ltc_Coinex",
       "label": "Litecoin Coinex minimo: 0.06",
-      "value": "ltc1qlfhzrycy0aetvh2n9960s4gkv0yqjdmurvm3ym",
+      "value": "",
       "img": "./images/payments/ltc.svg"
     },
     {
       "id": "usdterc20_Coinex",
       "label": "USDT ERC20 Coinex minimo: 25",
-      "value": "0x99bee0a672a0b0492aeecbf65751f8770b76db54",
+      "value": "",
       "img": "./usdterc.png"
     },
         {
       "id": "usdttrc20_Coinex",
       "label": "USDT TRC20 Coinex Min: 1",
-      "value": "TRYSxa2xMr9fC438znXL3zLvPrG831iFDf",
+      "value": "",
       "img": "./usdttrc.png"
     },
     {
@@ -87,13 +87,13 @@
     {
       "id": "sol_coinex",
       "label": "Solana Coinex Min: 0.08",
-      "value": "Feajn9E9S39RrwpVgRskRsMmWTNj8Bqgh6sVZP8SfuRy",
+      "value": "",
       "img": "./images/payments/sol.svg"
     },
     {
       "id": "ada_coinex",
       "label": "ADA Coinex Minimo: 10",
-      "value": "DdzFFzCqrhtBZWZK4CV2mrhLNUj7n2GmMPFqjG7PbrmXQjfKAAWpTcZvkGBxpT3ampQEN9pmg8TV2BySoyDir8kJTkrjVnuzPwuveuVe",
+      "value": "",
       "img": "./images/payments/ada.svg"
     },
     {
@@ -111,13 +111,13 @@
      {
       "id": "trx_coinex",
       "label": "Tron (TRX) Coinex Min: 20",
-      "value": "TRYSxa2xMr9fC438znXL3zLvPrG831iFDf",
+      "value": "",
       "img": "./images/payments/trx.svg"
     },
     {
       "id": "Ronin_coinex",
       "label": "Ronin Coinex Minimo: 5",
-      "value": "0x75779e3de5d9923d5682ecd131ea686cd0fb8ad9",
+      "value": "",
       "img": "./images/payments/Ronin.jpeg"
     }, 
     {
